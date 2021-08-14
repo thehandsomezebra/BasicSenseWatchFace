@@ -1,0 +1,42 @@
+.background {
+  viewport-fill: black;
+}
+
+#timeLabel {
+  font-size: 50;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 10%;
+  fill: white;
+}
+#heartLabel {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 65%;
+  y: 50%;
+  fill: white;
+}
+
+#stairsLabel {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 65%;
+  y: 65%;
+  fill: white;
+}
+
+#stepsLabel {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 65%;
+  y: 80%;
+  fill: white;
+}

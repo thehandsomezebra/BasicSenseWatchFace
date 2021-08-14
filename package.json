@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0"
+  },
+  "fitbit": {
+    "appUUID": "d05beece-33db-4e44-bae6-454feeda26c1",
+    "appType": "clockface",
+    "appDisplayName": "Basic Stats for Fitbit Sense",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Basic Stats for Fitbit Sense"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

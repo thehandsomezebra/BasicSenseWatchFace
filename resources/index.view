@@ -1,0 +1,6 @@
+<svg class="background">
+  <text id="timeLabel" />
+  <text id="heartLabel" />
+  <text id="stairsLabel" />
+  <text id="stepsLabel" />
+</svg>
