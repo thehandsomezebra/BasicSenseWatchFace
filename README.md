@@ -10,3 +10,6 @@ Basic stats for the Fitbit Sense
 
 
 Super basic digital face, black background with white text.
+
+
+![Watch Face](extras/BasicWatchFace-screenshot.png)

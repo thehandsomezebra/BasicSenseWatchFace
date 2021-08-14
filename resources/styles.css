@@ -8,7 +8,7 @@
   text-length: 32;
   text-anchor: middle;
   x: 50%;
-  y: 10%;
+  y: 10%+50;
   fill: white;
 }
 #heartLabel {
@@ -16,8 +16,8 @@
   font-family: System-Bold;
   text-length: 32;
   text-anchor: middle;
-  x: 65%;
-  y: 50%;
+  x: 50%;
+  y: 50%+40;
   fill: white;
 }
 
@@ -26,8 +26,8 @@
   font-family: System-Bold;
   text-length: 32;
   text-anchor: middle;
-  x: 65%;
-  y: 65%;
+  x: 50%;
+  y: 65%+40;
   fill: white;
 }
 
@@ -36,7 +36,7 @@
   font-family: System-Bold;
   text-length: 32;
   text-anchor: middle;
-  x: 65%;
-  y: 80%;
+  x: 50%;
+  y: 80%+40;
   fill: white;
 }
