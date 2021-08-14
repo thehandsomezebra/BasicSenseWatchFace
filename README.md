@@ -1,4 +1,4 @@
-# BasicSenseWatchFace
+# Fitbit Sense: Basic Clock Face
 
 Basic stats for the Fitbit Sense
 
