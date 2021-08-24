@@ -1,7 +1,5 @@
 # Basic Stats and Clock Face
 
-Basic stats for the Fitbit Sense
-
 - displays time
 - displays current heartrate
 - displays today's steps 
