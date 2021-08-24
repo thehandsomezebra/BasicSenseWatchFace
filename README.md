@@ -1,4 +1,4 @@
-# Fitbit Sense: Basic Clock Face
+# Basic Stats and Clock Face
 
 Basic stats for the Fitbit Sense
 
@@ -9,7 +9,9 @@ Basic stats for the Fitbit Sense
 
 
 
-Super basic digital face, black background with white text.
+Super basic digital face, black background with white text. 
+
+Designed to work with the Fitbit Sense.
 
 
 ![Watch Face](extras/BasicWatchFace-screenshot.png)
